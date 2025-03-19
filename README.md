@@ -19,6 +19,8 @@ ls
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/d62d11ed-951f-4ef2-a0ae-582f425c85fa)
+
 
 ### 2. `pwd` Command
 
@@ -30,6 +32,7 @@ pwd
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/2580f2c3-1c28-48ab-ac40-28c74a0782bc)
 
 ### 3. `mkdir` Command
 
@@ -41,6 +44,7 @@ mkdir <directory_name>
 ```
 
 **Output:**
+![image](https://github.com/user-attachments/assets/cd496c04-3ff4-4f44-a057-36e2557127c6)
 
 ### 4. `rmdir` Command
 
@@ -53,6 +57,8 @@ rmdir <directory_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/794cc577-7478-462b-a769-9f12372442d2)
+
 ### 5. `cd` Command
 
 The `cd` command is used to change the current directory.
@@ -63,6 +69,8 @@ cd <directory_name>
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/20fd184b-e7ad-42b0-acc1-9f6888b8ea53)
 
 ### 6. `cat` Command
 
@@ -75,6 +83,8 @@ cat [OPTION]... [FILE]...
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/67a7137f-b03e-4b9b-99bd-289dc18cb9d3)
+
 ### 7. `cp` Command
 
 The `cp` command is used to copy files or directories.
@@ -85,6 +95,8 @@ cp <source_file> <destination_file>
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/6948ab11-83f6-42db-bee7-0fb5d57ae50d)
 
 ### 8. `gedit` Command
 
@@ -97,6 +109,8 @@ gedit <file_name>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/a2bd7cca-4a96-4da7-87c2-f11356d7b837)
+
 ### 9. `su` Command
 
 The `su` command provides administrative access to another user.
@@ -108,6 +122,8 @@ su <username>
 
 **Output:**
 
+![image](https://github.com/user-attachments/assets/3b1173f6-3561-4cdb-8561-62f7e9768237)
+
 ### 10. `mv` Command
 
 The `mv` command is used to move a file or directory from one location to another.
@@ -118,6 +134,8 @@ mv <file_name> <directory_path>
 ```
 
 **Output:**
+
+![image](https://github.com/user-attachments/assets/fe02e764-6e8a-4ae1-8abe-d2ce9e9c399f)
 
 ### 11. `rename` Command
 
